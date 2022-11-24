@@ -1,6 +1,6 @@
 ---
 title: Anthony Berlioz-Ucles
-role: Professor of Artificial Intelligence
+role: Administrateur Systèmes & Réseaux
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
